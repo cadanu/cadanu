@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+💫 Feel free to check out my Github. Click the link below to get to my website. ⭐<br>
+<pre>                                   🪃 <a href="https://cadanu.github.io">https://cadanu.github.io</a></pre>
 
 <!--
 **cadanu/cadanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
