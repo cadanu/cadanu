@@ -1,6 +1,14 @@
 ### Hey there 👋
-💫 Feel free to check out my Github. Click the link below to get to my website. ⭐<br>
-<pre>                                   🪃 <a href="https://cadanu.github.io">https://cadanu.github.io</a></pre>
+> I'm a web app and mobile developer. Lately I've been busy building user facing web applications that interface with Microsoft Dynamics 365 Business Central (NAV).
+
+### Stack
+> I cut my teeth on the LAMP stack, and have some experience with Angular, but I've been leaning towards the MERN stack lately for web apps.
+
+### Hobbies
+> It's really a toss up between building routed networks at home with old cisco routers, micing up an instrument to record some music, or delving into some documentaries on classical history.
+
+💫 Feel free to browse my Github. Click the link below to get to my website. ⭐<br>
+> <pre>🪃 <a href="cadanu.github.io">https://cadanu.github.io</a></pre>
 
 <!--
 **cadanu/cadanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
