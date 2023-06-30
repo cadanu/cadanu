@@ -8,7 +8,7 @@
 > It's really a toss up between building routed networks at home with old cisco routers, micing up an instrument to record some music, or delving into some documentaries on classical history.
 
 💫 Feel free to browse my Github. Click the link below to get to my website. ⭐<br>
-> <pre>🪃 <a href="cadanu.github.io">https://cadanu.github.io</a></pre>
+> <pre>🪃 <a href="https://cadanu.github.io">cadanu.github.io</a></pre>
 
 <!--
 **cadanu/cadanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
