@@ -1,5 +1,6 @@
 ### Hey there 👋
-> I'm a web app, mobile and Business Central developer. 💫 Feel free to browse my Github. Click the link below to get to my website. ⭐<br>
+> I'm a web app, mobile and Business Central developer.
+💫 Feel free to browse my Github. Click the link below to get to my website. ⭐<br>
 > <pre>🪃 <a href="https://cadanu.github.io">cadanu.github.io</a></pre>
 
 <!--
