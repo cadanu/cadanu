@@ -1,4 +1,4 @@
-![Digital themed banner](https://res-1.cdn.office.net/shellux/images/circuit.efe60e1da6453eaf30c53c3e16f7405b.jpg)
+![Digital themed banner](rsc/bc_circuit.jpg)
     *#alcode #react #node #sql*
 >### Hey there 👋
 > I develop web applications and Business Central connect apps.
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🪃
+- banner image link: https://res-1.cdn.office.net/shellux/images/circuit.efe60e1da6453eaf30c53c3e16f7405b.jpg
 -->
 
