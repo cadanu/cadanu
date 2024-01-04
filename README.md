@@ -1,13 +1,13 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
-    * #elk #alcode #node*
+       *#elk #alcode #node #python*
 
 <a style="" href="https://github.com/cadanu/">
   <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
 </a>
 
 >### Greetings 👋
-> Web applications, Business Central extensions, and custom software solutions.
-<!-->> Feel free to browse my Github or click the [link][1].-->
+> I develop web apps, Business Central extensions, software solutions, Big Data integration.
+<!-- Feel free to browse my Github or click the [link][1].-->
 >
 💫 [Website][1]
 
