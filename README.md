@@ -1,8 +1,8 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
     *#elk #alcode #node*
 
-<a style="" align="right" href="https://github.com/cadanu/">
-  <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
+<a style="" href="https://github.com/cadanu/">
+  <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
 </a>
 
 >### Hey there 👋
@@ -16,7 +16,7 @@
 
 <div style="display:none; flex-direction:column; position:relative; width:100%; align-items:center; justify-content:center; padding: 25px 0; user-select:none;">
     <span>
-        <img style="border:5px solid lightslategray; border-right:1px solid lightslategray; border-radius:5px; box-shadow:inset 10px 0px 17px 1px slategray, 0px 0px 10px 1px #e7ae09; opacity:0.8;" src="https://profile-counter.glitch.me/cadanu/count.svg" />
+        <img display="none" style="border:5px solid lightslategray; border-right:1px solid lightslategray; border-radius:5px; box-shadow:inset 10px 0px 17px 1px slategray, 0px 0px 10px 1px #e7ae09; opacity:0.8;" src="https://profile-counter.glitch.me/cadanu/count.svg" />
     </span>
     <span style="color:slategray;"> Visit counter </span>
 </div>
