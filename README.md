@@ -9,7 +9,7 @@
 > I develop web applications, Business Central extensions, and software solutions.
 <!-- Feel free to browse my Github or click the [link][1].-->
 >
-💫 [Website][1]
+<!--💫 -->[Website][1]
 
 [1]: <https://cadanu.github.io> "Gordon's site"
 [2]: <https://profile-counter.glitch.me/cadanu/count.svg> "Counter"
