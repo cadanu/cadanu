@@ -6,7 +6,7 @@
 </a>
 
 >### Greetings 👋
-> I develop web apps, Business Central extensions, software solutions, Big Data integration.
+> I develop web applications, Business Central extensions, and software solutions.
 <!-- Feel free to browse my Github or click the [link][1].-->
 >
 💫 [Website][1]
