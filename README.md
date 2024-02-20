@@ -6,7 +6,9 @@
 </a>
 
 >### 👋
-> SOLID.
+> SOLID
+>
+> Feel free to look around. The link below will take you to my website.
 <!-- Feel free to browse my Github or click the [link][1].-->
 >
 [Website][1]
