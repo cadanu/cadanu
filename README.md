@@ -1,5 +1,5 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
-       #softwareengineering #devopsmindset #computertechnology
+       #softwareengineering
 
 <a style="" href="https://github.com/cadanu/">
   <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
@@ -9,12 +9,14 @@
 > SOLID
 >
 > Feel free to look around. The link below will take you to my website.
-<!-- Feel free to browse my Github or click the [link][1].-->
 >
-[Website][1]
+> [Website][1]
 
 [1]: <https://gjoycedev.com> "Gordon's site"
 [2]: <https://profile-counter.glitch.me/cadanu/count.svg> "Counter"
+
+
+
 
 <!-- 💫
 <div style="flex-direction:column; position:relative; width:100%; align-items:center; justify-content:center; padding: 25px 0; user-select:none;">
