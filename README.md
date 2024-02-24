@@ -6,9 +6,7 @@
 </a>
 
 >### 👋
-> SOLID
->
-> Feel free to look around. The link below will take you to my website.
+> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship captain holding a laptop" in the ai image gen prompt XD.
 >
 > [Website][1]
 
