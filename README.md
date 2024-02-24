@@ -1,12 +1,16 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
-       #softwareengineering
+       #
 
 <a style="" href="https://github.com/cadanu/">
   <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
 </a>
 
 >### 👋
-> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship captain holding a laptop" in the ai image gen prompt XD.
+> If you can make it in WSL, you can make it anywhere.
+>
+> I wish my brain could process in parallel but it's concurrency at best.
+>
+> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship captain holding a laptop" in the AI image generator prompt XD.
 >
 > [Website][1]
 
