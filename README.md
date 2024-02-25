@@ -1,5 +1,5 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
-       #
+       #linux #nginx #sql #node #cli
 
 <a style="" href="https://github.com/cadanu/">
   <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,css,scss,less,hack&langs_count=6" />
@@ -14,7 +14,7 @@
 >
 > [Website][1]
 
-[1]: <https://gjoycedev.com> "Gordon's site"
+[1]: <https://gjoycedev.com> "gjoycedev site"
 [2]: <https://profile-counter.glitch.me/cadanu/count.svg> "Counter"
 
 
