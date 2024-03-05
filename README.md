@@ -6,9 +6,11 @@
 </a>
 
 >### 👋
-> If you can make it in WSL, you can make it anywhere.
+> WSL is useful.
 >
-> I wish my brain could process in parallel but it's concurrency at best.
+> I like the idea of concurrency.
+>
+> Blockchain is pretty cool.
 >
 > My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship captain holding a laptop" in the AI image generator prompt XD.
 >
