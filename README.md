@@ -10,13 +10,13 @@
 >
 > I like the idea of concurrency.
 >
-> Blockchain is pretty cool.
+> As it stands, I'm unopinonated on framework supremacy. Everything has its uses.
 >
-> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship captain holding a laptop" in the AI image generator prompt XD.
+> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship's captain holding a laptop" in the AI image generator prompt.
 >
 > [Website][1]
 
-[1]: <https://gjoycedev.com> "gjoycedev site"
+[1]: <https://portfolio.gjoycedev.com> "gjoycedev site"
 [2]: <https://profile-counter.glitch.me/cadanu/count.svg> "Counter"
 
 
