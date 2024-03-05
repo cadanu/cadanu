@@ -14,7 +14,7 @@
 >
 > My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship's captain holding a laptop" in the AI image generator prompt.
 >
-> [Website][1]
+> #[Website][1]
 
 [1]: <https://portfolio.gjoycedev.com> "gjoycedev site"
 [2]: <https://profile-counter.glitch.me/cadanu/count.svg> "Counter"
