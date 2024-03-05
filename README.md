@@ -12,7 +12,7 @@
 >
 > As it stands, I'm unopinonated on framework supremacy. Everything has its uses.
 >
-> My profile pic is AI generated, it reminds me of Starfox.
+> My profile pic is AI generated - it reminds me of Starfox.
 >
 > <!--[Website][1]-->
 
