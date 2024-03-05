@@ -12,7 +12,7 @@
 >
 > As it stands, I'm unopinonated on framework supremacy. Everything has its uses.
 >
-> My profile pic reminds me of Starfox. I'm pretty sure I typed in "ship's captain holding a laptop" in the AI image generator prompt.
+> My profile pic is AI generated, it reminds me of Starfox.
 >
 > <!--[Website][1]-->
 
