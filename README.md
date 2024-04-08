@@ -1,5 +1,5 @@
 ![Digital themed banner](rsc/bc_circuit.jpg)
-       #softwaredeveloper
+       #softwaredeveloper #engineering
 
 <!--<a style="" href="https://github.com/cadanu/">
   <img style="box-shadow:10px -10px 25px -26px blue; cursor:crosshair" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadanu&hide_progress=true&hide=html,less,hack&langs_count=6" />
