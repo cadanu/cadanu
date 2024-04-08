@@ -6,9 +6,9 @@
 </a>-->
 
 >### 👋
-> WSL is useful.
+> WSL is useful once you get past the quirks.
 >
-> I like concurrency.
+> I like performance, hence, concurrency.
 >
 > My profile pic is AI generated - it reminds me of Starfox.
 >
