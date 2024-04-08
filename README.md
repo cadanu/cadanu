@@ -8,9 +8,7 @@
 >### 👋
 > WSL is useful.
 >
-> I like the idea of concurrency.
->
-> As it stands, I'm unopinonated on framework supremacy. Everything has its uses.
+> I like concurrency.
 >
 > My profile pic is AI generated - it reminds me of Starfox.
 >
