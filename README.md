@@ -8,8 +8,6 @@
 >### 👋
 > WSL is useful once you get past the quirks.
 >
-> I like performance, hence, concurrency.
->
 > My profile pic is AI generated - it reminds me of Starfox.
 >
 > <!--[Website][1]-->
