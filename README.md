@@ -6,9 +6,7 @@
 </a>-->
 
 >### 👋
-> WSL is useful once you get past the quirks.
->
-> My profile pic is AI generated - it reminds me of Starfox.
+> My profile pic is AI generated - trained on a furry model apparently. It reminds me of Starfox. I'm not a furry. Go arc in progress.
 >
 > <!--[Website][1]-->
 
