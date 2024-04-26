@@ -6,10 +6,6 @@
 </a>-->
 
 >### 👋
-> My profile pic is AI generated - trained on a furry model apparently. It reminds me of Starfox so it's worth keeping.
->
-> I'm not a furry.
->
 > Go arc in progress...
 >
 > <!--[Website][1]-->
